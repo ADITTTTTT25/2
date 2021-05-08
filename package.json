@@ -1,0 +1,44 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-native-firebase/app": "^11.3.3",
+    "axios": "^0.21.1",
+    "expo": "^38.0.0",
+    "expo-image-picker": "~8.3.0",
+    "firebase": "^7.9.0",
+    "moment": "^2.29.1",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
+    "react-native-elements": "^3.3.1",
+    "react-native-gesture-handler": "~1.6.0",
+    "react-native-image-picker": "^3.2.1",
+    "react-native-modal-dropdown": "git+https://github.com/Kishanjvaghela/react-native-modal-dropdown.git",
+    "react-native-reanimated": "~1.9.0",
+    "react-native-responsive-fontsize": "^0.5.0",
+    "react-native-safe-area-context": "~3.0.7",
+    "react-native-screens": "~2.9.0",
+    "react-native-swipe-list-view": "^3.2.7",
+    "react-native-vector-icons": "^8.1.0",
+    "react-native-web": "~0.11.7",
+    "react-native-webview": "^11.4.2",
+    "react-native-youtube-iframe": "^2.0.1",
+    "react-navigation": "^4.4.4",
+    "react-navigation-drawer": "^2.7.0",
+    "react-navigation-stack": "^2.10.4",
+    "react-navigation-tabs": "^2.11.0",
+    "expo-screen-orientation": "~1.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0"
+  },
+  "private": true
+}
